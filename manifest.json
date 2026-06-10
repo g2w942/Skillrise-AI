@@ -1,0 +1,17 @@
+{
+  "name": "SkillRise AI Career Progression",
+  "short_name": "SkillRise AI",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#030305",
+  "theme_color": "#030305",
+  "description": "Neural-generated career pathways tracking platform.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2103/2103633.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
